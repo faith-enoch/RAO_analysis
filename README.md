@@ -62,7 +62,7 @@ This is an ongoing project. Next steps include:
 
 ## Project Files
 ### raila-youtube-analysis/
-- Raila_data_collection.ipynb | ***YouTube data extraction & structuring***
+- Raila_data_collectioncopy.ipynb | ***YouTube data extraction & structuring***
 - Comments.ipynb              | ***Comment cleaning, topic modelling, labelling***
 - data
 -   raila_youtube_ratings.csv
